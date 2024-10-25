@@ -2,7 +2,7 @@
 
 An open-source smart greenhouse platform that democratizes sustainable agriculture through accessible technology. OpenGardener combines modular hardware designs, intelligent monitoring systems, and community-driven knowledge sharing to make precision agriculture available to everyone.
 
-![License](https://img.shields.io/badge/license-Apache2.0-green)
+![License](https://img.shields.io/badge/license-Apache%202.0-green)
 ![Status](https://img.shields.io/badge/status-prototype-orange)
 
 ## 🎯 Vision
